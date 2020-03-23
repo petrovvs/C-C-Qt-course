@@ -1,0 +1,12 @@
+Компиляция исходника:
+$ gcc -o hello hello.c
+$
+
+Запуск программы:
+$ ./hello
+
+
+
+
+GIT
+apt install git
